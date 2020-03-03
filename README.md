@@ -1,4 +1,3 @@
-# utn-devops-app
-DevOps, integracion y agilidad continua (apps)
+# Unidad 2
 
-[Unidad 1](https://github.com/hpieroni/utn-devops-app/tree/unidad-1)
+Express.js web app based on https://github.com/hpieroni/express-api-seed
